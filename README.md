@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Emma 👋
+----
+
+I'm a programmer with a background in physics and cs, and a foreground in the history of physics and supercomputing in the 20th century. 
+
+After studying history, I pivoted back to programming by diving into deep learning via [this Practical Deep Learning course](https://course.fast.ai/) with a study group at the [Recurse Center](https://www.recurse.com/)! If you're curious you can read through [my notes](https://emmjab.github.io/).
+
+I'm currently attending the [Climate Change AI Virtual Summer School 2026](https://www.climatechange.ai/events/summer_school2026).
 
 <!--
 **emmjab/emmjab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
