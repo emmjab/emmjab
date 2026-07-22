@@ -1,5 +1,4 @@
 ## Hi, I'm Emma 👋
-----
 
 I'm a programmer with a background in physics and cs, and a foreground in the history of physics and supercomputing in the 20th century. 
 
