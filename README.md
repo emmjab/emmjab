@@ -8,7 +8,7 @@ While transitioning back from history of science to programming and curious abou
 
 More recently I dove into deep learning via [this Practical Deep Learning course](https://course.fast.ai/) with a study group at the [Recurse Center](https://www.recurse.com/)! If you're curious you can read through [my notes](https://emmjab.github.io/).
 
-I'm currently attending the [Climate Change AI Virtual Summer School 2026](https://www.climatechange.ai/events/summer_school2026).
+I attended the [Climate Change AI Virtual Summer School 2026](https://www.climatechange.ai/events/summer_school2026).
 
 
 <!--
